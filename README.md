@@ -5,7 +5,7 @@ Created by Sedat Can Uygur
 
 [Github](https://github.com/SedatUygur) | [FreeCodeCamp](http://www.freecodecamp.com/pcengineer48) | [CodePen](http://codepen.io/SedatUygur) | [LinkedIn](https://www.linkedin.com/in/sedat-can-uygur) | [E-Mail](mailto:sedatcan_92@hotmail.com)
 
-Project: Request Header Parser
+# Project: Request Header Parser
 
 User Stories
 
